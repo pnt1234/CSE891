@@ -31,8 +31,9 @@ Students will be accessed based on the following:
 - Mini-projects (30%)
 
 All programming assignments in homework and mini-projects must be implemented in Python. The final grade will be determined based on the following scale:
+
 | GPA |   Grade  |
-|-----|----------|
+|-----|:---------|
 | 4.0 | [90,100] |
 | 3.5 | [85,90)  |
 | 3.0 | [80,85)  |
