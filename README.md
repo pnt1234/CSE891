@@ -1,4 +1,5 @@
-## CSE891 (Section 4): Computational Foundations of AI and Machine Learning (Fall 2019)
+## CSE891 (Section 4): Computational Foundations of AI and Machine Learning
+---
 
 ### General Information:
 
