@@ -26,8 +26,9 @@ The topics to be covered in this course include:
 
 ### Course Assessment:
 Students will be accessed based on the following:
-- Homework exercises (70%)
-- Mini-projects (30%)
+- Homework exercises (60%)
+- Exams (20%)
+- Mini-projects (20%)
 
 All programming assignments in homework and mini-projects must be implemented in Python. The final grade will be determined based on the following scale:
 
