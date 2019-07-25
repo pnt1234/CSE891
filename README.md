@@ -7,8 +7,6 @@
 - Lecture Room: 1234 Engineering Building
 - Instructor: [Pang-Ning Tan](http://www.cse.msu.edu/~ptan) [[email](mailto:ptan@msu.edu)]
 - Instructor's office hours: Mon, Wed 9:30 - 10:30am (EB 2129)
-- Teaching Assistant: [Farzan Masrour](http://www.cse.msu.edu/~masrours) [[email](mailto:masrours@msu.edu)]
-- TA's office hours: 
 
 ### Course Description: 
 This introductory course is intended to provide the background needed for students interested to enroll in graduate-level courses such as CSE 802, CSE 881, CSE 847, and CSE 891 (deep learning). The course does not require students to have any prior background in data science related area and will cover the mathematical foundations in linear algebra, probability theory, and statistics, as well as the fundamental concepts in data science. There are no formal textbooks for this class, though the lecture materials are mostly adapted from the following books:
