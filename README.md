@@ -29,7 +29,7 @@ The topics to be covered in this course include:
 
 ### Course Assessment:
 Students will be accessed based on the following:
-- Homework exercises (60%)
+- Homework (60%)
 - Exams (20%)
 - Mini-projects (20%)
 
