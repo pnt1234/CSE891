@@ -16,7 +16,7 @@ This introductory course is intended to provide the background needed for studen
 - [Bishop] C. Bishop. "Pattern Recognition and Machine Learning", Springer (2011). 
 - [BR] S. Banerjee and A. Roy. “Linear Algebra and Matrix Analysis for Statistics”, CRC Press (2014).
 - [BV] S. Boyd and L. Vandenberghe, "Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares", Cambridge University Press (2018). A draft of the book is available [here](http://vmls-book.stanford.edu/).
-- [Klein] P.N. Klein, "Coding the Natrix: Linear Algebra through Computer Science Applications", Newtonian Press (2013).
+- [Klein] P.N. Klein, "Coding the Matrix: Linear Algebra through Computer Science Applications", Newtonian Press (2013).
 
 ### Course Outline: 
 The topics to be covered in this course include:
