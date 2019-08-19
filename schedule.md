@@ -1,5 +1,6 @@
 ## Tentative Class Schedule
 ---
+ This is the tentative class schedule. Instructor reserves the right to modify it. Please check back regularly. 
 
 | Week |    Dates   |    Topics and Reading Materials                |    Deliverables    |
 |------|:-----------|------------------------------------------------|--------------------|
