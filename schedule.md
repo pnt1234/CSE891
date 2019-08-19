@@ -32,3 +32,4 @@
 |      | 11/27/2019 | Algorithms for Massive Data  | | 
 | 15   | 12/2/2019  | TBD | |
 |      | 12/4/2019  | TBD | |
+| 16   | 12/9/2019  | Exam 2 | |
