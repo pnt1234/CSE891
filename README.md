@@ -46,6 +46,12 @@ The final grade will be determined based on the following scale:
 | 1.5 | [65,70)  |
 | 1.0 | [60,65)  |
 
+### Important Dates:
+- Online open add period ends: Wed, Sept 4, 2019
+- Last date to drop a course with full refund: Mon, Sept 23, 2019
+- Last date to drop with no grade reported: Wed, Oct 16
+- Final Exam: Mon, Dec 9, 2019, 3:00pm - 5:00pm, 1234 Engineering Building 
+
 ### Course Policy:
 
 - Homework assignments are due before midnight on the due date unless specified otherwise.  You must use D2L to turn in your a soft copy of your assignment. Late assignments will be penalized 25% of the total possible assignment grade (if submitted the next day after the deadline) or 50% (if submitted the second day after the deadline). Assignments submitted later than that will not be accepted.
