@@ -4,7 +4,7 @@
 
 | Week |    Dates   |    Topics and Reading Materials                |    Deliverables    |
 |------|:-----------|------------------------------------------------|--------------------|
-| 1    | 8/28/2019  | Linear algebra (Vectors and their operations) [[slides](lectures/lecture1.pdf)] |                    |
+| 1    | 8/28/2019  | Linear algebra (Vectors and their operations) [[slides](lecture1.pdf)] |                    |
 | 2    | 9/2/2019   |     No class (Labor day)                       |                    | 
 |      | 9/4/2019   | Linear algebra (Matrices and their operations) |                    |
 | 3    | 9/9/2019   | Linear algebra (Systems of linear equations, least-square)   |  |
