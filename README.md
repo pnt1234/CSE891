@@ -3,6 +3,7 @@
 
 ### General Information:
 
+- Website: [http://www.cse.msu.edu/~ptan/CSE891](http://www.cse.msu.edu/~ptan/CSE891)
 - Lecture Hours: Mon, Wed: 3:00 - 4:20pm
 - Lecture Room: 1234 Engineering Building
 - Instructor: [Pang-Ning Tan](http://www.cse.msu.edu/~ptan) [[email](mailto:ptan@msu.edu)]
