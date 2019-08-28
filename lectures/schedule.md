@@ -4,7 +4,7 @@
 
 | Week |    Dates   |    Topics and Reading Materials                |    Deliverables    |
 |------|:-----------|------------------------------------------------|--------------------|
-| 1    | 8/28/2019  | Linear algebra (Vectors and their operations)  |                    |
+| 1    | 8/28/2019  | Linear algebra (Vectors and their operations) [[slides (lecture1.pdf)] |                    |
 | 2    | 9/2/2019   |     No class (Labor day)                       |                    | 
 |      | 9/4/2019   | Linear algebra (Matrices and their operations) |                    |
 | 3    | 9/9/2019   | Linear algebra (Systems of linear equations, least-square)   |  |
@@ -18,7 +18,7 @@
 | 7    | 10/7/2019  | Statistical Inference (MAP and Bayesian) | |
 |      | 10/9/2019  | High-dimensional Spaces | |
 | 8    | 10/14/2019 | Random projection and Johnson-Lindenstrauss Lemma   |  | 
-|      | 10/16/2019 | Exam 1 |  |
+|      | 10/16/2019 | Midterm Exam |  |
 | 9    | 10/21/2019 | Random walk and Markov chain | |
 |      | 10/23/2019 | MCMC (Metropolis Hastings and Gibbs sampling) | |
 | 10   | 10/28/2019 | Convex sets and functions | |
@@ -33,4 +33,4 @@
 |      | 11/27/2019 | Graphs (directed and undirected)  | | 
 | 15   | 12/2/2019  | Algorithms for Massive Data   | |
 |      | 12/4/2019  | Algorithms for Massive Data | |
-| 16   | 12/9/2019  | Exam 2 | |
+| 16   | 12/9/2019  | Final Exam | |
