@@ -4,8 +4,8 @@
  
  NOTE: Lecture slides have been moved to D2L. 
 
-| Week |    Dates   |    Topics and Reading Materials                |    Deliverables    |
-|------|:-----------|------------------------------------------------|--------------------|
+| Week |    Dates   |    Topics and Reading Materials                |     Deliverables     |
+|------|:-----------|------------------------------------------------|----------------------|
 | 1    | 8/28/2019  | Linear algebra (Vectors and their operations)  |                    |
 | 2    | 9/2/2019   |     No class (Labor day)                       |                    | 
 |      | 9/4/2019   | Linear algebra (Matrices and their operations) |                    |
