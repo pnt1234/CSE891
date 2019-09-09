@@ -10,16 +10,16 @@
 | 2    | 9/2/2019   |     No class (Labor day)                       |                    | 
 |      | 9/4/2019   | Linear algebra (Matrices and their operations) |                    |
 | 3    | 9/9/2019   | Linear algebra (Systems of linear equations, least-square)   |  |
-|      | 9/11/2019  | Linear Algebra (Vector space, linear independence)  |                    | 
-| 4    | 9/16/2019  | Linear algebra (SVD and matrix factorization) | Homework 1 |
-|      | 9/18/2019  | Probability (random variables, expectations, moments, distributions) | | 
-| 5    | 9/23/2019  | Probability (Gaussian distribution, conditional and marginal distributions) | |
-|      | 9/25/2019  | Probability (Independence, correlation, Nongaussianity, ICA) | |
-| 6    | 9/30/2019  | Probability (limit theorems, inequalities, law of large numbers) | |
-|      | 10/2/2019  | Statistical inference (Maximum likelihood and EM) | |
-| 7    | 10/7/2019  | Statistical Inference (MAP and Bayesian) | |
-|      | 10/9/2019  | High-dimensional Spaces | |
-| 8    | 10/14/2019 | Random projection and Johnson-Lindenstrauss Lemma   |  | 
+|      | 9/11/2019  | Linear algebra (Systems of linear equations, least-square)  |                    | 
+| 4    | 9/16/2019  | Linear Algebra (Vector space, linear independence) | Homework 1 |
+|      | 9/18/2019  | Linear algebra (SVD and matrix factorization) | | 
+| 5    | 9/23/2019  | Probability (random variables, expectations, moments, distributions) | |
+|      | 9/25/2019  | Probability (Gaussian distribution, conditional and marginal distributions) | |
+| 6    | 9/30/2019  | Probability (Independence, correlation, Nongaussianity, ICA) | |
+|      | 10/2/2019  | Probability (limit theorems, inequalities, law of large numbers) | |
+| 7    | 10/7/2019  | Statistical inference (Maximum likelihood and EM) | |
+|      | 10/9/2019  | Statistical Inference (MAP and Bayesian) | |
+| 8    | 10/14/2019 | High-dimensional spaces, random projection and Johnson-Lindenstrauss Lemma   |  | 
 |      | 10/16/2019 | Midterm Exam |  |
 | 9    | 10/21/2019 | Random walk and Markov chain | |
 |      | 10/23/2019 | MCMC (Metropolis Hastings and Gibbs sampling) | |
