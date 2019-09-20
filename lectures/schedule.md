@@ -12,10 +12,10 @@
 | 3  | 9/9/2019   | Linear algebra (Systems of linear equations, least-square)   |  |
 |    | 9/11/2019  | Linear algebra (Systems of linear equations, least-square)    [[Matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)] |                    | 
 | 4  | 9/16/2019  | Linear Algebra (Vector space, linear independence) |    |
-|    | 9/18/2019  | Linear algebra (SVD and matrix factorization) | Homework 1 (extended) | 
-| 5  | 9/23/2019  | Probability (random variables, expectations, moments, distributions) |  |
-|    | 9/25/2019  | Probability (Gaussian distribution, conditional and marginal distributions) |  |
-| 6  | 9/30/2019  | Probability (Independence, correlation, Nongaussianity, ICA) | |
+|    | 9/18/2019  | Linear algebra (Eigendecomposition and matrix factorization) | Homework 1 (extended) | 
+| 5  | 9/23/2019  | Linear algebra (Best fit subspace, SVD) |  |
+|    | 9/25/2019  | Probability (random variables, expectations, moments, distributions) |  |
+| 6  | 9/30/2019  | Probability (Gaussian distribution, Independence, correlation, Nongaussianity, ICA) | |
 |    | 10/2/2019  | Probability (limit theorems, inequalities, law of large numbers) | |
 | 7  | 10/7/2019  | Statistical inference (Maximum likelihood and EM) | |
 |    | 10/9/2019  | Statistical Inference (MAP and Bayesian) | |
