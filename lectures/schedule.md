@@ -20,7 +20,7 @@
 | 7  | 10/7/2019  | Probability (limit theorems, inequalities, law of large numbers) | Homework 2 |
 |    | 10/9/2019  | Statistical Inference (ML, MAP and Bayesian) | |
 | 8  | 10/14/2019 | Statistical Inference (ML, MAP and Bayesian)   |  | 
-|    | 10/16/2019 | Midterm Exam |  |
+|    | 10/16/2019 | Midterm Exam | Mini Project 1 (Oct 20) |
 | 9  | 10/21/2019 | High-dimensional spaces, random projection and Johnson-Lindenstrauss Lemma | |
 |    | 10/23/2019 | Random walk and Markov chain | |
 | 10 | 10/28/2019 | MCMC (Metropolis Hastings and Gibbs sampling) | |
