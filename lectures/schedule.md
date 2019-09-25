@@ -13,12 +13,12 @@
 |    | 9/11/2019  | Linear algebra (Systems of linear equations, least-square)    [[Matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)] |                    | 
 | 4  | 9/16/2019  | Linear Algebra (Vector space, linear independence) |    |
 |    | 9/18/2019  | Linear algebra (Eigendecomposition and matrix factorization) | Homework 1 (extended) | 
-| 5  | 9/23/2019  | Linear algebra (Best fit subspace, SVD) |  |
-|    | 9/25/2019  | Probability (random variables, expectations, moments, distributions) |  |
-| 6  | 9/30/2019  | Probability (Gaussian distribution, Independence, correlation, Nongaussianity, ICA) | |
-|    | 10/2/2019  | Probability (limit theorems, inequalities, law of large numbers) | |
-| 7  | 10/7/2019  | Statistical inference (Maximum likelihood and EM) | |
-|    | 10/9/2019  | Statistical Inference (MAP and Bayesian) | |
+| 5  | 9/23/2019  | Linear algebra (Eigendecomposition and matrix factorization) |  |
+|    | 9/25/2019  | Linear algebra (Best fit subspace, SVD) |  |
+| 6  | 9/30/2019  | Probability (random variables, expectations, moments, distributions) | |
+|    | 10/2/2019  | Probability (Gaussian distribution, Independence, correlation) | |
+| 7  | 10/7/2019  | Probability (limit theorems, inequalities, law of large numbers) | Homework 2 |
+|    | 10/9/2019  | Statistical Inference (ML, MAP and Bayesian) | |
 | 8  | 10/14/2019 | High-dimensional spaces, random projection and Johnson-Lindenstrauss Lemma   |  | 
 |    | 10/16/2019 | Midterm Exam |  |
 | 9  | 10/21/2019 | Random walk and Markov chain | |
