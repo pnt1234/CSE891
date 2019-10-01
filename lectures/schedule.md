@@ -16,7 +16,7 @@
 | 5  | 9/23/2019  | Linear algebra (Eigendecomposition and matrix factorization) |  |
 |    | 9/25/2019  | Linear algebra (Best fit subspace, SVD) |  |
 | 6  | 9/30/2019  | Probability (random variables, expectations, moments, distributions) | |
-|    | 10/2/2019  | Probability (Gaussian distribution, Independence, correlation) | |
+|    | 10/2/2019  | Probability (Gaussian distribution, information theory) | |
 | 7  | 10/7/2019  | Probability (limit theorems, inequalities, law of large numbers) | Homework 2 |
 |    | 10/9/2019  | Statistical Inference (ML, MAP and Bayesian) | |
 | 8  | 10/14/2019 | Statistical Inference (ML, MAP and Bayesian)   |  | 
