@@ -29,7 +29,7 @@ The topics to be covered in this course include:
 - Linear models, kernel methods, and deep learning ([Bishop] and Chapter 5 of [BHK])
 - Algorithms for Massive Data: streaming, sketching, and sampling (Chapter 6 of [BHK])
 
-The course schedule (including slides and reading materials) are available [here](lectures/schedule.md)
+The course schedule is available [here](lectures/schedule.md)
 
 ### Course Assessment:
 Students will be accessed based on the following:
