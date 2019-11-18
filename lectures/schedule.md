@@ -27,12 +27,12 @@
 |    | 10/30/2019 | High-dimensional spaces, random projection and Johnson-Lindenstrauss Lemma | Homework 3 |
 | 11 | 11/4/2019  | Random walk and Markov chain | |
 |    | 11/6/2019  | MCMC (Metropolis Hastings and Gibbs sampling) | |
-| 12 | 11/11/2019 | Numerical optimization (gradient-descent methods) | |
-|    | 11/13/2019 | Numerical optimization (gradient-descent methods) | |
-| 13 | 11/18/2019 | Linear methods | |
-|    | 11/20/2019 | Kernel methods (RKHS, VC dimension) | |
-| 14 | 11/25/2019 | Neural-networks and deep learning| |
-|    | 11/27/2019 | Graphs (directed and undirected)  | | 
+| 12 | 11/11/2019 | MCMC (Metropolis Hastings and Gibbs sampling) | |
+|    | 11/13/2019 | Linear models, Generalization from Data (PAC Learning) | Homework 4|
+| 13 | 11/18/2019 | Growth Function, VC Dimensions | |
+|    | 11/20/2019 | Neural-networks and deep learning | |
+| 14 | 11/25/2019 | Numerical optimization (gradient-based methods) | |
+|    | 11/27/2019 | Numerical optimization (gradient-based methods)  |Homework 5 | 
 | 15 | 12/2/2019  | Algorithms for Massive Data   | |
 |    | 12/4/2019  | Algorithms for Massive Data | |
 | 16 | 12/9/2019  | Final Exam | |
