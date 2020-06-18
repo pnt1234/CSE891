@@ -10,13 +10,13 @@
 
 ### Course Description: 
 This introductory course is intended to provide the background needed for students interested to enroll in graduate-level courses such as CSE 802, CSE 881, CSE 847, and CSE 891 (deep learning). The course does not require students to have any prior background in data science related area and will cover the mathematical foundations in linear algebra, probability theory, and statistics, as well as the fundamental concepts in data science. The materials for the course will be adapted from the following textbook:
-- [Agg] C.C. Aggarwal, "Linear Algebra and Optimization for Machine Learning: A Textbook". Springer.  
+- C.C. Aggarwal, "Linear Algebra and Optimization for Machine Learning: A Textbook". Springer.  
 
 Lecture materials will also be taken from the following supplementary textbooks: 
-- [BHK] A. Blum, J. Hopcroft, and R. Kannan. “Foundations of Data Science”, Cambridge University Press (2020, forthcoming). A draft of the book is available [here](https://www.cs.cornell.edu/jeh/book.pdf).
-- [BR] S. Banerjee and A. Roy. “Linear Algebra and Matrix Analysis for Statistics”, CRC Press (2014).
-- [BV] S. Boyd and L. Vandenberghe, "Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares", Cambridge University Press (2018). A draft of the book is available [here](http://vmls-book.stanford.edu/).
-- [Klein] P.N. Klein, "Coding the Matrix: Linear Algebra through Computer Science Applications", Newtonian Press (2013).
+- A. Blum, J. Hopcroft, and R. Kannan. “Foundations of Data Science”, Cambridge University Press (2020, forthcoming). A draft of the book is available [here](https://www.cs.cornell.edu/jeh/book.pdf).
+- S. Banerjee and A. Roy. “Linear Algebra and Matrix Analysis for Statistics”, CRC Press (2014).
+- S. Boyd and L. Vandenberghe, "Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares", Cambridge University Press (2018). A draft of the book is available [here](http://vmls-book.stanford.edu/).
+- P.N. Klein, "Coding the Matrix: Linear Algebra through Computer Science Applications", Newtonian Press (2013).
 
 ### Course Outline: 
 The topics to be covered in this course include:
