@@ -20,7 +20,7 @@
 | 7  | 10/12/2020  | Probability (Gaussian distribution, information theory) |  |
 |    | 10/14/2020  | Probability (limit theorems, inequalities, law of large numbers) | |
 | 8  | 10/19/2020 | Statistical Inference (Random sampling, statistics, sampling distribution)   |  | 
-|    | 10/21/2020 | Midterm Exam | Mini Project 1 (Oct 20) |
+|    | 10/21/2020 | Statistical Inference (Random sampling, statistics, sampling distribution) |  |
 | 9  | 10/26/2020 | Statistical Inference (MLE, MAP and Bayesian) | |
 |    | 10/28/2020 | Statistical Inference (MLE, MAP and Bayesian) | |
 | 10 | 11/2/2020 | High-dimensional spaces, random projection and Johnson-Lindenstrauss Lemma | |
