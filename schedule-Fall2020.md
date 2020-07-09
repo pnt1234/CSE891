@@ -8,13 +8,13 @@
 |------|:-----------|------------------------------------------------|----------------------|
 | 1  | 9/2/2020  | Introduction  |                    |
 | 2  | 9/7/2020   |     No class (Labor day)                       |                    | 
-|    | 9/9/2020   | Linear algebra (Matrices and their operations) |                    |
-| 3  | 9/14/2020  | Linear algebra (Systems of linear equations, least-square)   |  |
-|    | 9/16/2020  | Linear algebra (Systems of linear equations, least-square)    [[Matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)] |                    | 
-| 4  | 9/21/2020  | Linear Algebra (Vector space, linear independence) |    |
-|    | 9/23/2020  | Linear algebra (Eigendecomposition and matrix factorization) |  | 
-| 5  | 9/28/2020  | Linear algebra (Eigendecomposition and matrix factorization) |  |
-|    | 9/30/2020  | Linear algebra (Best fit subspace, SVD) |  |
+|    | 9/9/2020   | Linear algebra (Vectors and their operations) |                    |
+| 3  | 9/14/2020  | Linear algebra (Matrices and their operations)   |  |
+|    | 9/16/2020  | Linear algebra (Systems of linear equations, least-square)  |                    | 
+| 4  | 9/21/2020  | Linear Algebra (Systems of linear equations, least-square) |    |
+|    | 9/23/2020  | Linear algebra (Vector space, linear independence) |  | 
+| 5  | 9/28/2020  | Linear algebra (Eigendecomposition) |  |
+|    | 9/30/2020  | Linear algebra (SVD and matrix factorization) |  |
 | 6  | 10/5/2020  | Probability (random variables, expectations, moments, distributions) | |
 |    | 10/7/2020  | Probability (Gaussian distribution, information theory) | |
 | 7  | 10/12/2020  | Probability (Gaussian distribution, information theory) |  |
