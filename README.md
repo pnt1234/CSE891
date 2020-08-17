@@ -32,9 +32,11 @@ The course schedule is available [here](schedule.md)
 
 ### Course Assessment:
 Students will be accessed based on the following:
-- Homework (70%)
-- Projects (20%)
+- Homework (50%)
+- Quizzes (25%)
+- Projects (10%)
 - Exam (10%)
+- Attendance (5%)
 
 The final grade will be determined based on the following scale:
 
