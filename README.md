@@ -57,10 +57,8 @@ The final grade will be determined based on the following scale:
 | 1.0 | [60,65)  |
 
 ### Important Dates:
-- Online open add period ends: Wed, Sept 4, 2019
-- Last date to drop a course with full refund: Mon, Sept 23, 2019
-- Last date to drop with no grade reported: Wed, Oct 16
-- Final Exam: Mon, Dec 9, 2019, 3:00pm - 5:00pm, 1234 Engineering Building 
+- Online open add period ends: Wed, Sept 9, 2020
+- Last date to drop a course with full refund: Mon, Sept 28, 2019
 
 ### Course Policy:
 
