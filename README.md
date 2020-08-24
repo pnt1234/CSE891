@@ -61,7 +61,7 @@ The final grade will be determined based on the following scale:
 
 ### Course Policy:
 
-- Attendance to lecture is mandatory. Although each lecture will be recorded, students are expected to attend the online lectures and must inform the instructor if they are unable to attend due to emergency or other acceptable reasons. 
+- Attendance to lecture is mandatory. Students are expected to attend the online lectures and must inform the instructor if they are unable to attend due to emergency or other acceptable reasons. 
 - Homework assignments are due before midnight on the due date unless specified otherwise.  You must use [D2L](http://d2l.msu.edu) to turn in your a soft copy of your assignment. Late assignments will be penalized 25% of the total possible assignment grade (if submitted the next day after the deadline) or 50% (if submitted the second day after the deadline). Assignments submitted later than that will not be accepted.
 - Online quizzes will be available on D2L and must be completed before midnight by Friday. No extension will be given.  
 - An online midterm exam will be given during one of the lecture hours. The exam will be open book and notes. Students must make arrangements to take the exam via zoom. You need to have a second camera available (e.g., from your phone) to display your computer screen during the exam. Make-up examination can be arranged if your absence is due to conference travel, documented illness, or personal emergency. A written explanation (including supporting documentation) must be submitted to your instructor; if the explanation is acceptable, an alternative to the examination will be arranged. Except for emergency cases, make-up arrangements must be made in advance. 
