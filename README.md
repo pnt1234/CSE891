@@ -5,9 +5,9 @@
 
 - Website: [http://www.cse.msu.edu/~ptan/CSE891](http://www.cse.msu.edu/~ptan/CSE891)
 - Lecture Hours: Mon, Wed: 3:00 - 4:20pm
-- Teaching Modality: Online (synchronous) instruction via zoom
+- Teaching Modality: Online (synchronous) instruction via zoom (zoom link provided on D2L).
 - Instructor: [Pang-Ning Tan](http://www.cse.msu.edu/~ptan) [[email](mailto:ptan@msu.edu)]
-- Instructor's office hours: TBD
+- Instructor's office hours: Mon 4:20-5:20pm, Fri 9:00-10:00am 
 
 ### Course Description: 
 This introductory course is intended to provide the background needed for students interested to enroll in graduate-level courses such as CSE 802, CSE 881, CSE 847, and CSE 891 (deep learning). The course does not require students to have any prior background in data science related area and will cover the mathematical foundations in linear algebra, probability theory, and statistics, as well as the fundamental concepts in data science. The materials for the course will be adapted from the following textbook:
@@ -34,15 +34,14 @@ The topics to be covered in this course include:
 - Numerical optimization.
 - Random walk and Markov chain Monte Carlo.
 - High dimensional space and random projection.
-- Basics of machine learning.
+- Generalization from data.
 
 ### Course Assessment:
 Students will be assessed based on the following:
-- Homework (50%)
-- Quizzes (25%)
+- Homework (60%)
+- Online quizzes (20%)
 - Project (10%)
 - Exam (10%)
-- Attendance (5%)
 
 The final grade will be determined based on the following scale:
 
@@ -62,9 +61,10 @@ The final grade will be determined based on the following scale:
 
 ### Course Policy:
 
-- Attendance to lecture is mandatory. Students are expected to attend all the lectures and must inform the instructor if they are unable to attend due to emergency or other acceptable reasons.
+- Attendance to lecture is mandatory. Although each lecture will be recorded, students are expected to attend the online lectures and must inform the instructor if they are unable to attend due to emergency or other acceptable reasons. 
 - Homework assignments are due before midnight on the due date unless specified otherwise.  You must use [D2L](http://d2l.msu.edu) to turn in your a soft copy of your assignment. Late assignments will be penalized 25% of the total possible assignment grade (if submitted the next day after the deadline) or 50% (if submitted the second day after the deadline). Assignments submitted later than that will not be accepted.
-- Exams are generally open book and notes. Make-up examinations can be arranged if your absence is due to conference travel, documented illness, or personal emergency. A written explanation (including supporting documentation) must be submitted to your instructor; if the explanation is acceptable, an alternative to the examination will be arranged. Except for emergency cases, make-up arrangements must be made in advance. 
-- You are allowed to form study groups to learn the materials in class. However, you are forbidden from sharing the solution of your quizzes, homework assignments, and programming project with other students. All submitted solutions must be your own work. Students who were found copying or sharing their solutions with other students will automatically receive a zero for the entire assignment. In addition, an Academic Dishonesty Report will be filed and submitted to the university.
+- Online quizzes will be available on D2L and must be completed before midnight by Friday. No extension will be given.  
+- An online midterm exam will be given during one of the lecture hours. The exam will be open book and notes. Students must make arrangements to take the exam via zoom. You need to have a second camera available (e.g., from your phone) to display your computer screen during the exam. Make-up examination can be arranged if your absence is due to conference travel, documented illness, or personal emergency. A written explanation (including supporting documentation) must be submitted to your instructor; if the explanation is acceptable, an alternative to the examination will be arranged. Except for emergency cases, make-up arrangements must be made in advance. 
+- You are allowed to form study groups to learn the materials in class. However, you are forbidden from sharing the solution of your quizzes, homework assignments, and programming project with other students. All submitted assignments (quizzes, homeworks, project, and exam) must be your own work. Students who were found copying or sharing their solutions with other students will automatically receive a zero for the entire assignment. In addition, an Academic Dishonesty Report will be filed and submitted to the university.
 - All students are expected to be responsible users of the computer system provided by the Department of Computer Science and Engineering and College of Engineering. The Department of Computer Science expects all students to adhere to MSU’s policy on Academic Honesty and Integrity. Information about the policy is available at https://www.msu.edu/~ombud/academic-integrity/index.html.  
 - Michigan State University is committed to providing equal opportunity for participation in all programs, services and activities. Requests for accommodations by persons with disabilities may be made by contacting the Resource Center for Persons with Disabilities at 517-884-RCPD or on the web at rcpd.msu.edu. Once your eligibility for an accommodation has been determined, you will be issued a verified individual services accommodation (“VISA”) form. Please present this form to the instructor at the start of the term and/or two weeks prior to the accommodation date (test, project, etc). Requests received after this date will be honored whenever possible.
