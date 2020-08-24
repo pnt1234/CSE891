@@ -20,12 +20,12 @@ Lecture materials will also be taken from the following recommended books:
 
 ### Course Requirements:
 -	Internet connection (DSL, LAN, or cable connection desirable)
--	Access to Desire2Learn (D2L), or other delivery platform.
+-	Access to [Desire2Learn](https://d2l.msu.edu) (D2L), [Piazza](https://piazza.com/msu/fall2020/cse891/home), and other delivery platform.
 -	Ability to scan and upload documents.
 -	Laptop or desktop computer with capabilities to write and execute python programs. 
 
 ### Course Delivery:
-This course will be delivered through online (synchronous) instruction. You will need your MSU NetID to login to the course content on the D2L homepage (http://d2l.msu.edu). In D2L, you will access the course materials, quizzes, and additional resources. 
+This course will be delivered through online (synchronous) instruction. You will need your MSU NetID to login to the course content on the D2L homepage (http://d2l.msu.edu). In D2L, you will access the course materials, quizzes, assignments, and additional resources. Zoom links for online lecture and office hours are also posted on D2L.
 
 ### Course Outline: 
 The topics to be covered in this course include:
