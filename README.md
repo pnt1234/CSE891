@@ -46,9 +46,9 @@ The topics to be covered in this course include:
 
 ### Course Assessment:
 Students will be assessed based on the following:
-- Homework (50%)
+- Homework (55%)
 - Online quizzes (25%)
-- Project (15%)
+- Project (10%)
 - Exam (10%)
 
 The final grade will be determined based on the following scale:
