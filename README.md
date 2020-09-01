@@ -44,6 +44,8 @@ The topics to be covered in this course include:
 - Random walk and Markov chain Monte Carlo (chapter 4 of Blum et al 2020).
 - Generalization from data (chapter 2 and 5 of Blum et al 2020).
 
+A tentative class schedule can be found [here](https://pnt1234.github.io/CSE891/schedulee-Fall2020.md)
+
 ### Course Assessment:
 Students will be assessed based on the following:
 - Homework (55%)
