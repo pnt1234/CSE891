@@ -12,18 +12,18 @@
 |    | 9/16/2020  | Linear algebra (Matrix Norms, Inverses, and Types of Matrix)  |                    | 
 | 4  | 9/21/2020  | Linear algebra (Linear transformation and Vector Space) |  Homework 1  |
 |    | 9/23/2020  | Linear algebra (System of linear equations) |  | 
-| 5  | 9/28/2020  | Linear algebra (Least-square and QR Decomposition) |  |
-|    | 9/30/2020  |  Linear algebra (Eigendecomposition) |  |
-| 6  | 10/5/2020  |  Linear algebra (SVD and matrix factorization) | |
-|    | 10/7/2020  |  Probability (random variables, expectations, moments) | Homework 2 |
-| 7  | 10/12/2020  | Probability (probability distributions) |  |
-|    | 10/14/2020  | Probability (information theory and limit theorems) | |
-| 8  | 10/19/2020 |  Statistical Inference (Random sampling, statistics, sampling distribution)   |  | 
-|    | 10/21/2020 | Statistical Inference (MLE, MAP and Bayesian)   |  |
-| 9  | 10/26/2020 | Random walk and Markov chain | Homework 3 |
-|    | 10/28/2020 | MCMC (Metropolis Hastings and Gibbs sampling) | |
+| 5  | 9/28/2020  | Linear algebra (LU and QR Decomposition) |  |
+|    | 9/30/2020  |  Linear algebra (Least-square)  |  |
+| 6  | 10/5/2020  |  Linear algebra (Eigendecomposition) | |
+|    | 10/7/2020  |  Linear algebra (SVD and matrix factorization) | Homework 2 |
+| 7  | 10/12/2020  | Probability (random variables, expectations, moments) |  |
+|    | 10/14/2020  | Probability (probability distributions) | |
+| 8  | 10/19/2020 |  Probability (information theory and limit theorems)   |  | 
+|    | 10/21/2020 | Statistical Inference (Random sampling, statistics, sampling distribution)   |  |
+| 9  | 10/26/2020 | Statistical Inference (MLE, MAP and Bayesian) | Homework 3 |
+|    | 10/28/2020 | Random walk and Markov chain | |
 | 10 | 11/2/2020 |  Exam | |
-|    | 11/4/2020 |  Optimization basics |  |
+|    | 11/4/2020 |  MCMC (Metropolis Hastings and Gibbs sampling) |  |
 | 11 | 11/9/2020  | Optimization basics | |
 |    | 11/11/2020  | Optimization basics | Homework 4 |
 | 12 | 11/16/2020 | Advanced Optimization |  |
