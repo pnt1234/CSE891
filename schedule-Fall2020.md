@@ -18,7 +18,7 @@
 |    | 10/7/2020  |  Linear algebra (SVD and matrix factorization) | Homework 2 |
 | 7  | 10/12/2020  | Probability (random variables, expectations, moments) |  |
 |    | 10/14/2020  | Probability (probability distributions) | |
-| 8  | 10/19/2020 |  Probability (information theory and limit theorems)   |  | 
+| 8  | 10/19/2020 |  Probability (Limit theorems and concentration inequalities)   |  | 
 |    | 10/21/2020 | Statistical Inference (Random sampling, statistics, sampling distribution)   |  |
 | 9  | 10/26/2020 | Statistical Inference (MLE, MAP and Bayesian) | Homework 3 |
 |    | 10/28/2020 | Random walk and Markov chain | |
