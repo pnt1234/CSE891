@@ -21,7 +21,7 @@
 | 8  | 10/19/2020 | Probabilistic Modeling of Data    |  | 
 |    | 10/21/2020 | Statistical Inference (MLE, MAP)   |  |
 | 9  | 10/26/2020 | Statistical Inference (Bayesian) | Homework 3 |
-|    | 10/28/2020 | Probability (Limit theorems and concentration inequalities) | |
+|    | 10/28/2020 | Limit theorems and concentration inequalities | |
 | 10 | 11/2/2020 |  Exam | |
 |    | 11/4/2020 | Random walk and Markov chain  |  |
 | 11 | 11/9/2020  | MCMC (Metropolis Hastings and Gibbs sampling) | |
