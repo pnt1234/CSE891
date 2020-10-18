@@ -18,19 +18,19 @@
 |    | 10/7/2020  |  Linear algebra (SVD and matrix factorization) | Homework 2 |
 | 7  | 10/12/2020  | Probability (random variables, expectations, moments) |  |
 |    | 10/14/2020  | Probability (probability distributions) | |
-| 8  | 10/19/2020 |  Probability (Limit theorems and concentration inequalities)   |  | 
-|    | 10/21/2020 | Statistical Inference (Random sampling, statistics, sampling distribution)   |  |
-| 9  | 10/26/2020 | Statistical Inference (MLE, MAP and Bayesian) | Homework 3 |
-|    | 10/28/2020 | Random walk and Markov chain | |
+| 8  | 10/19/2020 | Probabilistic Modeling of Data    |  | 
+|    | 10/21/2020 | Statistical Inference (MLE, MAP)   |  |
+| 9  | 10/26/2020 | Statistical Inference (Bayesian) | Homework 3 |
+|    | 10/28/2020 | Probability (Limit theorems and concentration inequalities) | |
 | 10 | 11/2/2020 |  Exam | |
-|    | 11/4/2020 |  MCMC (Metropolis Hastings and Gibbs sampling) |  |
-| 11 | 11/9/2020  | Optimization basics | |
+|    | 11/4/2020 | Random walk and Markov chain  |  |
+| 11 | 11/9/2020  | MCMC (Metropolis Hastings and Gibbs sampling) | |
 |    | 11/11/2020  | Optimization basics | Homework 4 |
-| 12 | 11/16/2020 | Advanced Optimization |  |
+| 12 | 11/16/2020 | Optimization basics |  |
 |    | 11/18/2020 | Advanced Optimization |  |
-| 13 | 11/23/2020 | Constrained Optimization | |
+| 13 | 11/23/2020 | Advanced Optimization | |
 |    | 11/25/2020 | Constrained Optimization | |
-| 14 | 11/30/2020 | Neural networks | Homework 5 |
-|    | 12/2/2020 |  Computational Graphs |  | 
-| 15 | 12/7/2020  | Generalization from Data   | |
+| 14 | 11/30/2020 | Constrained Optimization | Homework 5 |
+|    | 12/2/2020 |  Neural networks |  | 
+| 15 | 12/7/2020  | Computational Graphs   | |
 |    | 12/9/2020  | Generalization from Data | Project |
