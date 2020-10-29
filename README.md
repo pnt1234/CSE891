@@ -42,7 +42,7 @@ The topics to be covered in this course include:
 - Probability and statistics.
 - Numerical optimization (chapters 4-6 of Aggarwal2020).
 - Random walk and Markov chain Monte Carlo (chapter 4 of Blum et al 2020).
-- Generalization from data (chapter 2 and 5 of Blum et al 2020).
+- High-dimensional space and Generalization from data (chapter 2 and 5 of Blum et al 2020).
 
 A tentative class schedule can be found [here](https://pnt1234.github.io/CSE891/schedule-Fall2020)
 
