@@ -31,6 +31,6 @@
 | 13 | 11/23/2020 | Advanced Optimization | |
 |    | 11/25/2020 | Constrained Optimization | |
 | 14 | 11/30/2020 | Constrained Optimization | Homework 5 |
-|    | 12/2/2020 |  Neural networks |  | 
-| 15 | 12/7/2020  | Computational Graphs   | |
-|    | 12/9/2020  | Generalization from Data | Project |
+|    | 12/2/2020 |  Neural networks and computational graphs |  | 
+| 15 | 12/7/2020  | High-dimensional data   | |
+|    | 12/9/2020  | Random Projection | Project |
